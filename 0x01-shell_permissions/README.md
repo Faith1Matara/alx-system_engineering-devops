@@ -1,1 +1,1 @@
-starwar
+multiple permissions
