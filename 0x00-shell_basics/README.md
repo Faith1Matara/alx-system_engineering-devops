@@ -1,1 +1,1 @@
-magc
+current directory
