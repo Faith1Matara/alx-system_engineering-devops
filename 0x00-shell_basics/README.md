@@ -1,1 +1,1 @@
-list
+we are symbols
