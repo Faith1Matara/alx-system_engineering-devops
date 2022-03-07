@@ -1,1 +1,1 @@
-script to display .gif files
+acrostic
