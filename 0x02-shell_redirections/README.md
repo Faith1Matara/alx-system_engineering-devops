@@ -1,1 +1,1 @@
-lines without bin
+displaying all lines stareting with letters
