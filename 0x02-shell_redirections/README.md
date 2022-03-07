@@ -1,1 +1,1 @@
-being unique is better than being perfect
+displaying a line containing a pattern
