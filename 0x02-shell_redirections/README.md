@@ -1,1 +1,1 @@
-removing empty casks
+script to display .gif files
