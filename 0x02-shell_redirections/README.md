@@ -1,1 +1,1 @@
-good file
+script to duplicate a file
