@@ -1,1 +1,1 @@
- script thar parse web server logs
+script that parses web server logs in tsv format
