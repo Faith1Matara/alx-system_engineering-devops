@@ -1,1 +1,1 @@
-script to duplicate a file
+deleting .js files
