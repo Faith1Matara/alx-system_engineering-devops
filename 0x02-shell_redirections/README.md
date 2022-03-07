@@ -1,1 +1,1 @@
-displaying a line containing a pattern
+count that word
