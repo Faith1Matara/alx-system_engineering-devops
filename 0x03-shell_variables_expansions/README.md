@@ -1,1 +1,1 @@
-a script that counts the number of directories int PATH
+a scripts that lists enviromental variable
