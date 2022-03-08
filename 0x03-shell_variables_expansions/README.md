@@ -1,1 +1,1 @@
-script that prints hello user
+Path to success requires action
