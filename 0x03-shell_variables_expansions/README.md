@@ -1,1 +1,1 @@
-script that list all local variables and environment variables and functions
+a scripts that creates new global variable
